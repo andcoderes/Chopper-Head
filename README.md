@@ -1,6 +1,8 @@
 # Chopper Head V2
 
-> This firmware was strongly influenced by the [Amidala](https://github.com/thePunderWoman/Amidala) firmware by [thePunderWoman](https://github.com/thePunderWoman).
+## Acknowledgments
+
+This firmware was strongly influenced by the [Amidala](https://github.com/thePunderWoman/Amidala) firmware by [thePunderWoman](https://github.com/thePunderWoman).
 
 Firmware for Chopper (C1-1OP) head built on the **ESP32-WROOM-32**. Controls servo animations, RGB LED lighting effects, and communicates wirelessly with a main controller via ESP-NOW.
 
